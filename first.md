@@ -1,1 +1,1 @@
-this is first workshop
+this is first workshop class
